@@ -62,9 +62,4 @@ python twitter_sentiment_strategy.py
 ## Resultados y Conclusiones
 Los resultados de la estrategia se comparan con el rendimiento del NASDAQ, permitiendo evaluar la viabilidad de usar datos de Twitter para tomar decisiones de inversión.
 
-## Autor
-Desarrollado por [Tu Nombre].
-
-
-
 # Twitter_Sentiment-Investing
