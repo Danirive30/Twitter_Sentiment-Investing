@@ -1,4 +1,4 @@
-# Twitter Sentiment Investing Strategy
+# Twitter Sentiment Investing
 
 ## Descripción
 Este proyecto desarrolla una estrategia de inversión basada en el sentimiento de Twitter aplicado a acciones bursátiles. La metodología emplea datos de interacciones en Twitter para identificar las acciones con mayor interés social y formar una cartera optimizada.
