@@ -52,14 +52,7 @@ Ejecutar el siguiente comando para instalar las librerías necesarias:
 pip install pandas numpy matplotlib yfinance
 ```
 
-## Ejecución del Proyecto
-Para ejecutar el análisis, simplemente corre el script principal en Python. Asegúrate de actualizar la ruta del archivo `sentiment_data.csv` en tu directorio de trabajo.
-
-```python
-python twitter_sentiment_strategy.py
-```
-
-## Resultados y Conclusiones
+## Resultados
 Los resultados de la estrategia se comparan con el rendimiento del NASDAQ, permitiendo evaluar la viabilidad de usar datos de Twitter para tomar decisiones de inversión.
 
 # Twitter_Sentiment-Investing
